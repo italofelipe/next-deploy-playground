@@ -1,0 +1,3 @@
+export const START_FETCHING = "START_FETCHING";
+export const POSTS_FETCHED = "POSTS_FETCHED";
+export const FETCH_FAILED = "FETCH_FAILED";
