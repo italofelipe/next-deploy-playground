@@ -8,6 +8,7 @@ function Home() {
         <title>Spa Pet - Pet Care</title>
       </Head>
       <div>SpaPet - Pet Care da Babi</div>
+      <p>Tudo para o seu pet</p>
     </>
   );
 }
